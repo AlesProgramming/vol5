@@ -8,6 +8,7 @@
             account.Deposit(100);
             account.Withdraw(150);
             Console.WriteLine(account.Balance);
+            Console.WriteLine(account.FullAccountName);
         }
     }
 }

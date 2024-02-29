@@ -1,3 +1,5 @@
+using System.Runtime.CompilerServices;
+
 namespace vol5;
 
 internal class BankAccount 
@@ -32,5 +34,13 @@ internal class BankAccount
     public int Balance
     {
         get { return balance; }
+    }
+
+    public string FullAccountName
+    {
+        get
+        {
+            return this.accountNumber + " - " + this.bankCode;
+        }
     }
 }

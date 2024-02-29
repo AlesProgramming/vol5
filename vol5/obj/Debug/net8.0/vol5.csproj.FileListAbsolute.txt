@@ -12,3 +12,4 @@ C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\refint\vol5.dll
 C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.pdb
 C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.genruntimeconfig.cache
 C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\ref\vol5.dll
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.sourcelink.json
