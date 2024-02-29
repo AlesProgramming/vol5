@@ -1,0 +1,14 @@
+C:\Users\alesr\RiderProjects\vol5\vol5\bin\Debug\net8.0\vol5.exe
+C:\Users\alesr\RiderProjects\vol5\vol5\bin\Debug\net8.0\vol5.deps.json
+C:\Users\alesr\RiderProjects\vol5\vol5\bin\Debug\net8.0\vol5.runtimeconfig.json
+C:\Users\alesr\RiderProjects\vol5\vol5\bin\Debug\net8.0\vol5.dll
+C:\Users\alesr\RiderProjects\vol5\vol5\bin\Debug\net8.0\vol5.pdb
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.AssemblyInfoInputs.cache
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.AssemblyInfo.cs
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.csproj.CoreCompileInputs.cache
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.dll
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\refint\vol5.dll
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.pdb
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\vol5.genruntimeconfig.cache
+C:\Users\alesr\RiderProjects\vol5\vol5\obj\Debug\net8.0\ref\vol5.dll
